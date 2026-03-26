@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hellomirai.aternos.me",
-    "port": 30038,
+    "ip": "BSCSMC.aternos.me",
+    "port": 53878,
     "version": "1.21.11",
     "try-creative": false
   },
