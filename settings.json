@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BSCSMC.aternos.me",
+    "ip": "mrigal.aternos.host",
     "port": 53878,
     "version": "1.21.11",
     "try-creative": false
