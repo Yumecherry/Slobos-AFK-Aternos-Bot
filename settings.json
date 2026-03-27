@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mrigal.aternos.host",
+    "ip": "BSCSMC.aternos.me",
     "port": 53878,
     "version": "1.21.11",
     "try-creative": false
@@ -27,11 +27,11 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": false,
       "repeat-delay": 120,
       "messages": [
-        "Nyaa"
+        "Meow!"
       ]
     },
     "chat-log": true,
