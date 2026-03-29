@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Meow",
+    "username": "MeowisHere",
     "password": "",
     "type": "offline"
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": false,
-      "repeat-delay": 120,
+      "repeat-delay": 20000,
       "messages": [
         "Meow!"
       ]
@@ -37,7 +37,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 1200
   },
   "movement": {
     "enabled": true,
